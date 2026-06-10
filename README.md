@@ -4,17 +4,19 @@ I've logged every personal expense since February, 2023. What started as a habit
 
 I use dummy expense values for this project, but the concept and all the other categories are real.
 
+---------------------------------------------------------------------------------------------------
 Google Sheets + Apps Script - logging the data
+
 Since it's all for personal use, the whole thing lives in Google Sheets, with a custom entry form built in Apps Script. Every time I spend something I open the form, fill it in, and hit submit - it lands as a new row in the sheet.
 
 Each expense becomes one row with these columns:
-Description - what it was
-Price - how much
-Needed/Satisfaction - essential or just nice to have
-Date - when I paid
-Cash/Card - how I paid
-Category - which bucket it falls into
-Special – a manual flag I set directly in the sheet for one-off outliers. When something is genuinely rare and perhaps expensive, a new laptop - its size would otherwise skew my conclusions and send me hunting for a "problem" that isn't one. It's a good investment I make once in a blue moon, not a leak in my normal spending. Flagging it as Special lets me set those outliers aside and keep the focus on my everyday habits.
+- Description - what it was
+- Price - how much
+- Needed/Satisfaction - essential or just nice to have
+- Date - when I paid
+- Cash/Card - how I paid
+- Category - which bucket it falls into
+- Special – a manual flag I set directly in the sheet for one-off outliers. When something is genuinely rare and perhaps expensive, a new laptop - its size would otherwise skew my conclusions and send me hunting for a "problem" that isn't one. It's a good investment I make once in a blue moon, not a leak in my normal spending. Flagging it as Special lets me set those outliers aside and keep the focus on my everyday habits.
 
 Looker Studio - the dashboard
 Six pages, each answering a different question. The date ranges, filters, and drill-downs update the visuals live and make everything interactive.
