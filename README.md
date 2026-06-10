@@ -1,5 +1,7 @@
 💸 Personal Expense Analytics (Feb 2023 – Present)
+
 I've logged every personal expense since February, 2023. What started as a habit turned into a full project - from raw logging, through cleaning, to an interactive dashboard that finally makes three-plus years of spending readable.
+
 I use dummy expense values for this project, but the concept and all the other categories are real.
 
 Google Sheets + Apps Script - logging the data
