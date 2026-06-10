@@ -20,6 +20,7 @@ Each expense becomes one row with these columns:
 
 ---------------------------------------------------------------------------------------------------
 Looker Studio - the dashboard
+
 Six pages, each answering a different question. The date ranges, filters, and drill-downs update the visuals live and make everything interactive.
 
 📌 1. Lifetime Overview
